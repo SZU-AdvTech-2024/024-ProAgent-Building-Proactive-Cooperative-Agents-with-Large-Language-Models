@@ -1,0 +1,6 @@
+@article{REPO024,
+    author = "Zhang, Ceyao and Yang, Kaijie and Hu, Siyi and Wang, Zihao and Li, Guanghe and Sun, Yihang and Zhang, Cheng and Zhang, Zhaowei and Liu, Anji and Zhu, Song-Chun and Chang, Xiaojun and Zhang, Junge and Yin, Feng and Liang, Yitao and Yang, Yaodong",
+    journal = "arXiv preprint arXiv:2308.11339",
+    title = "{ProAgent: Building Proactive Cooperative Agents with Large Language Models}",
+    year = "2023"
+}
